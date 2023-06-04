@@ -1,0 +1,16 @@
+##Git commands to get you hoes started 
+
+Yes I know you guys have forgotten it (God knows eveything)
+
+1. git status #To see the shit that was done by you 
+2. git log #To see the shit done by others
+3. git add . (Or add the particular file names to push and commit) #Adding files to the staging area
+4. git commit -m "YOUR MESSAGE" #To commit files into the pushing area | add your own comments don't just copy this, I am watching you.
+5. git push #To update your files on git
+
+To add this repo just use
+gh repo clone DiamondFever/Poker_Calculator
+
+
+6. git pull #To get updated with the github repo | Recommended to do everytime you start working.
+7. 
