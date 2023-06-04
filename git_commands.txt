@@ -13,4 +13,16 @@ gh repo clone DiamondFever/Poker_Calculator
 
 
 6. git pull #To get updated with the github repo | Recommended to do everytime you start working.
-7. 
+7. In case your push is interuptted please your one of the following commands to get back into the push:
+ 	*It is reccomended to merge the repo mostly*
+
+   git config pull.rebase false  # merge
+   git config pull.rebase true   # rebase
+   git config pull.ff only       # fast-forward only
+
+
+I guess these commands are enough to get you working 
+And yes you can thank me for being so cool
+
+
+edited and created using vim (Yes a God among men)
