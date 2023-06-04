@@ -1,0 +1,5 @@
+1. Ask number of Players
+2. Ask for the initial amount.
+3. After this Name of the Players
+4. Inputs for all the Players to enter their betting value 
+5. Who have won the round, deduct amount from all the Players and add to the winner account.
