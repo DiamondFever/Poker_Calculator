@@ -3,3 +3,4 @@
 3. After this Name of the Players
 4. Inputs for all the Players to enter their betting value 
 5. Who have won the round, deduct amount from all the Players and add to the winner account.
+6. Usage of chips with different denominators and the max limit of the player to bet.
