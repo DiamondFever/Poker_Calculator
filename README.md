@@ -1,6 +1,6 @@
 # Poker_Calculator
 
-This is a simple application for the calculations required in the poker game. 
+This is a beautiful application for the calculations required in the poker game. 
 It also handles multiple users as well as simulate the chips per round for all.
 Also has a pretty sweet GUI, hope you guys like it.
 
